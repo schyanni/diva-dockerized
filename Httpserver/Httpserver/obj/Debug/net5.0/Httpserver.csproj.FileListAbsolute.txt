@@ -1,0 +1,16 @@
+C:\Users\siros\source\repos\Httpserver\Httpserver\bin\Debug\net5.0\Httpserver.exe
+C:\Users\siros\source\repos\Httpserver\Httpserver\bin\Debug\net5.0\Httpserver.deps.json
+C:\Users\siros\source\repos\Httpserver\Httpserver\bin\Debug\net5.0\Httpserver.runtimeconfig.json
+C:\Users\siros\source\repos\Httpserver\Httpserver\bin\Debug\net5.0\Httpserver.runtimeconfig.dev.json
+C:\Users\siros\source\repos\Httpserver\Httpserver\bin\Debug\net5.0\Httpserver.dll
+C:\Users\siros\source\repos\Httpserver\Httpserver\bin\Debug\net5.0\ref\Httpserver.dll
+C:\Users\siros\source\repos\Httpserver\Httpserver\bin\Debug\net5.0\Httpserver.pdb
+C:\Users\siros\source\repos\Httpserver\Httpserver\obj\Debug\net5.0\Httpserver.csproj.AssemblyReference.cache
+C:\Users\siros\source\repos\Httpserver\Httpserver\obj\Debug\net5.0\Httpserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siros\source\repos\Httpserver\Httpserver\obj\Debug\net5.0\Httpserver.AssemblyInfoInputs.cache
+C:\Users\siros\source\repos\Httpserver\Httpserver\obj\Debug\net5.0\Httpserver.AssemblyInfo.cs
+C:\Users\siros\source\repos\Httpserver\Httpserver\obj\Debug\net5.0\Httpserver.csproj.CoreCompileInputs.cache
+C:\Users\siros\source\repos\Httpserver\Httpserver\obj\Debug\net5.0\Httpserver.dll
+C:\Users\siros\source\repos\Httpserver\Httpserver\obj\Debug\net5.0\ref\Httpserver.dll
+C:\Users\siros\source\repos\Httpserver\Httpserver\obj\Debug\net5.0\Httpserver.pdb
+C:\Users\siros\source\repos\Httpserver\Httpserver\obj\Debug\net5.0\Httpserver.genruntimeconfig.cache
